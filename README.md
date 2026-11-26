@@ -1,3 +1,4 @@
+<img width="900" height="1600" alt="WhatsApp Image 2026-11-26 at 10 58 33" src="https://github.com/user-attachments/assets/2ab87d08-7e16-4394-93a4-42b060341602" />
 # Repositório de Distribuição do AppTotem
 
 ## Sobre o App

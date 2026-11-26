@@ -1,4 +1,4 @@
-<img width="900" height="1600" alt="WhatsApp Image 2026-11-26 at 10 58 33" src="https://github.com/user-attachments/assets/2ab87d08-7e16-4394-93a4-42b060341602" />
+
 # Repositório de Distribuição do AppTotem
 
 ## Sobre o App
@@ -9,8 +9,8 @@ Como geralmente a atendente está oculpada com atendimento nos horários de muit
 o apptotem vem para melhorar o fluxo de atendimento
 
 o cliente chega na ex: clinica e ver o tablete para tirar uma senha 
+<img width="700" height="1000" alt="WhatsApp Image 2026-11-26 at 10 58 33" src="https://github.com/user-attachments/assets/2ab87d08-7e16-4394-93a4-42b060341602" />
 
-<img width="768" height="1366" alt="image" src="https://github.com/user-attachments/assets/6d73ee6e-7c6b-4a61-bf87-faddd7b07d66" />
 
 a senha sai na impressora o cliente pega a senha e aguarda sem precisar de um atendimento inicial da parte do atendimento 
 
